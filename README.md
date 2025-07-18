@@ -65,7 +65,7 @@ Enhance reporting (HTML, Excel, etc.)
 Integration as a plugin, API, or web dashboard
 
 License
-GLP-3 License
+GPL-3 License
 
 Created by DarkStealthGothic
 Inspired by real-world challenges in clinical trial operations and compliance.
