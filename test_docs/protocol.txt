@@ -1,0 +1,19 @@
+Clinical Trial Protocol
+Protocol ID: CTL-2025-001 | Version 1.0 | 23-Jun-2025
+SYNOPSIS
+• Study Phase: Phase IIb
+• Target sample size: 120 participants
+• Study duration: 12 months
+• Number of clinic visits: 8
+OBJECTIVES
+Primary: Evaluate efficacy of Drug X versus placebo.
+METHODS
+Approximately 100 subjects will be randomized (in a 1:1 ratio) to receive Drug X or placebo.
+The study will last 14 months in total.
+The schedule of assessments outlines 10 on-site visits.
+INCLUSION CRITERIA
+1. Adults aged 18–65
+2. Diagnosis of Condition Y
+EXCLUSION CRITERIA
+1. Pregnant or breastfeeding
+2. Severe renal impairment
